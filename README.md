@@ -1,1 +1,1 @@
-live version site link: https://zaferberkay.github.io/language_cards_project/
+live version site link: https://languages-cards-projects.netlify.app/
